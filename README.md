@@ -1,2 +1,10 @@
-# HTML-CSS-Learning
-My HTML and CSS learning journey
+# HTML & CSS Learning
+
+This repository contains my HTML and CSS practice work as I learn Frontend Web Development.
+
+Technologies:
+- HTML5
+- CSS3
+
+Goal: Strengthening my frontend development skills through hands-on practice and projects.
+
